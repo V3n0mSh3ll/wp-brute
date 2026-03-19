@@ -1,0 +1,24 @@
+# Proxy Format Guide
+# Each line should contain ONE proxy in the format: IP:PORT
+# Remove this comment after adding real proxies
+
+# Example proxies (these may not work, get fresh ones):
+# 1. Run: python fetch_proxies.py
+# OR
+# 2. Download from free proxy sites and paste here:
+
+# Format: IP:PORT (one per line)
+# Example:
+# 192.168.1.1:8080
+# 10.0.0.1:3128
+# 203.0.113.42:8080
+
+# Free proxy sources:
+# - http://www.proxy-list.download/
+# - https://free-proxy-list.net/
+# - https://www.sslproxies.org/
+# - https://us-proxy.org/
+# - https://proxylist.geonode.com/
+
+# Or run the included proxy fetcher:
+# python fetch_proxies.py
